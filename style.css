@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: #eee;
+  min-height: 5000px;
+}
+.scroller {
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: blueviolet;
+  height: 5px;
+}
